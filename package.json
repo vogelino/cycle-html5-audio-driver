@@ -1,6 +1,6 @@
 {
   "name": "cycle-html5-audio-driver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cycle.js driver based on the html5 audio element for playing sounds",
   "main": "lib/index.js",
   "scripts": {
