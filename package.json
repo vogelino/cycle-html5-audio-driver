@@ -1,0 +1,20 @@
+{
+  "name": "cycle-html5-audio-driver",
+  "version": "1.0.0",
+  "description": "A cycle.js driver based on the html5 audio element for playing sounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelino/cycle-html5-audio-driver.git"
+  },
+  "keywords": [],
+  "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vogelino/cycle-html5-audio-driver/issues"
+  },
+  "homepage": "https://github.com/vogelino/cycle-html5-audio-driver#readme"
+}
